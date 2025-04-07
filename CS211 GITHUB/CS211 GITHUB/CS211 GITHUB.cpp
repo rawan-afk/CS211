@@ -42,7 +42,7 @@ int main() {
     do {
         lex();
     } while (nextToken != EOF_TOKEN);
-    system("pause");
+    system("pause"); //for exe not to open and close on its own 
     return 0;
 
 }
