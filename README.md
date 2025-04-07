@@ -4,7 +4,9 @@ This is cs211 assignment - Lexical Analyzer Builder in C++
 To navigate to **EXE** file:
 
 CS211 GITHUB -> x64 -> Debug -> CS211 GITHUB.exe
-///////////////////////
-To To navigate to **.cpp** file:
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To navigate to **.cpp** file:
 
 CS211 GITHUB -> CS211 GITHUB -> CS211 GITHUB.cpp
